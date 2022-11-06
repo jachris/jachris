@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Here are some random links for you ...
+
+[🦀 Rust MIR Optimization (2022)](https://github.com/rust-lang/rust/pull/101168)
+
+[✨ Interactive WASM Raytracer (2019)](https://cg19.koehl.dev)
+
+[🛠️ Build System (2017)](https://getcook.org)
 
 <!--
 **jachris/jachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
