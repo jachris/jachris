@@ -4,7 +4,7 @@
 
 [✨ Interactive WASM Raytracer (2019)](https://cg19.koehl.dev)
 
-[🛠️ Build System (2017)](https://getcook.org)
+[🛠️ Build System (2017)](https://github.com/jachris/cook)
 
 <!--
 **jachris/jachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
